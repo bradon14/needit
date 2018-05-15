@@ -32,7 +32,7 @@
 	
 	// Add your code here
 	current.state = 14;
-	current.priority = 3;
+	//current.priority = 3;
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -40,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>0e11258a37061300eff57e5004990e53</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Needit  Set State Awaiting Approval</sys_name>
         <sys_overrides/>
         <sys_package display_value="Needit Application" source="x_214447_needit_ap">ee294f3137021300eff57e5004990edb</sys_package>
@@ -48,7 +48,7 @@
         <sys_scope display_value="Needit Application">ee294f3137021300eff57e5004990edb</sys_scope>
         <sys_update_name>sys_script_0e11258a37061300eff57e5004990e53</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-14 20:53:35</sys_updated_on>
+        <sys_updated_on>2018-05-15 17:19:25</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

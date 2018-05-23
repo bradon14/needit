@@ -27,6 +27,7 @@
         <message_html><![CDATA[<p>Dear&nbsp;Assigned to: ${assigned_to.first_name},</p>
 <p>An Overdue Needit Task has been assign to you.</p>
 <p>Number: ${number}</p>
+<p><span style="font-size: 10.5pt; line-height: 107%; font-family: 'Arial',sans-serif; color: #333333;">${mail_script:CountOverdueNeedItTasksAssignedTo}</span></p>
 <p><strong class="ph b">Please complete this task as soon as possible.</strong>.</p>
 <p><strong class="ph b">Click here to view the NeedIt Task record: ${URI_REF}</strong>.&nbsp;</p>]]></message_html>
         <message_list/>
@@ -50,7 +51,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ad77dfda378e1300eff57e5004990e92</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Overdue NeedIt Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="Needit Application" source="x_214447_needit_ap">ee294f3137021300eff57e5004990edb</sys_package>
@@ -58,7 +59,7 @@
         <sys_scope display_value="Needit Application">ee294f3137021300eff57e5004990edb</sys_scope>
         <sys_update_name>sysevent_email_action_ad77dfda378e1300eff57e5004990e92</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-16 15:51:13</sys_updated_on>
+        <sys_updated_on>2018-05-16 19:53:15</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

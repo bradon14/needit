@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test flight booking">1231c01a37312300eff57e5004990ec1</application>
+        <filter/>
+        <name>test flight bookings</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_214447_needit_ap.test_flight_booking_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-17 18:17:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5a31c01a37312300eff57e5004990ec2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test flight bookings</sys_name>
+        <sys_package display_value="Needit Application" source="x_214447_needit_ap">ee294f3137021300eff57e5004990edb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit Application">ee294f3137021300eff57e5004990edb</sys_scope>
+        <sys_update_name>sys_ui_module_5a31c01a37312300eff57e5004990ec2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-17 18:17:43</sys_updated_on>
+        <table>x_214447_needit_ap_test_flight_booking</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

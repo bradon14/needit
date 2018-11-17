@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test flight booking" max_length="40" name="x_214447_needit_ap_test_flight_booking" type="collection"/>
+</database>

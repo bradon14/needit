@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_user_role_contains">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
         <contains display_value="x_214447_needit_ap.needit_user" name="x_214447_needit_ap.needit_user">0fba8b3137021300eff57e5004990e78</contains>
         <role display_value="x_214447_needit_ap.Admin" name="x_214447_needit_ap.Admin">2bb5c02237025300eff57e5004990e79</role>
